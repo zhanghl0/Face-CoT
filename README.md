@@ -17,7 +17,7 @@ To address the challenge of high-quality data shortage in current text-image mul
 
 The types of attacks included in the dataset are illustrated below:
 
-![Figure 2(a): Attack Types in FaceCoT Dataset](./assets/type-data.png)
+![Figure 2(a): Attack Types in FaceCoT Dataset](./assets/data-type.png)
 
 ## Benefits
 
