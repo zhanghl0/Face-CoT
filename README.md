@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/cover_image.png" alt="Cover Image" height="180" width="500">
+  <img src="assets/FaceCoT.png" alt="Cover Image" height="180" width="500">
 </p>
 
 <h1 align="center">FaceCoT: A Chain-of-Thought Dataset for Face Anti-Spoofing</h1>
