@@ -1,4 +1,8 @@
-# FaceCoT Dataset
+<p align="center">
+  <img src="assets/FaceCoT.png" alt="Cover Image" width="60%">
+</p>
+
+<h2 align="center">FaceCoT: A Chain-of-Thought Dataset for Face Anti-Spoofing</h2>
 
 ## Overview
 
@@ -16,8 +20,9 @@ To address the challenge of high-quality data shortage in current text-image mul
 ## Dataset Composition
 
 The types of attacks included in the dataset are illustrated below:
-
-![Figure 2(a): Attack Types in FaceCoT Dataset](./assets/data-type.png)
+<p align="center">
+  <img src="./assets/data-type.png" alt="Attack Types" width="500">
+</p>
 
 ## Benefits
 
