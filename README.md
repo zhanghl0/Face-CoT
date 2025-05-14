@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/FaceCoT.png" alt="Cover Image" width="60%">
+  <img src="assets/cover_image.png" alt="Cover Image" height="180" width="500">
 </p>
 
-<h2 align="center">FaceCoT: A Chain-of-Thought Dataset for Face Anti-Spoofing</h2>
+<h1 align="center">FaceCoT: A Chain-of-Thought Dataset for Face Anti-Spoofing</h1>
 
 ## Overview
 
@@ -21,7 +21,7 @@ To address the challenge of high-quality data shortage in current text-image mul
 
 The types of attacks included in the dataset are illustrated below:
 <p align="center">
-  <img src="./assets/data-type.png" alt="Attack Types" width="500">
+  <img src="./assets/data-type.png" alt="Attack Types" width="350">
 </p>
 
 ## Benefits
