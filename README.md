@@ -74,7 +74,7 @@ If you use this dataset in your research, please cite:
 ```
 @misc{facecot2025,
   title={FaceCoT: A Chain-of-Thought VQA Dataset for Face Anti-Spoofing},
-  author={Honglu Zhang and Zhiqin Fang and Ningning Zhao and Saihui Hou and Long Ma and Renwang Pei and Zhaofeng He.},
+  author={todo},
   year={2025},
   url={todo}
 }
