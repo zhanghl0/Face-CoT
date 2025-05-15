@@ -59,10 +59,10 @@ Our proposed a CoT-Enhanced Progressive Learning (CEPL) strategy to better lever
 | Component            | Status       | Notes                             |
 |---------------------|--------------|-----------------------------------|
 | ✅ Dataset Release   | **Completed**| -                         |
-| ✅ Paper             | **Available**| -             |
-| 🚧 Model Weights     | **Pending**  | Preparing clean release           |
-| 🚧 Training Code     | **Pending**  | Reproducibility-focused cleanup   |
-| 🚧 Evaluation Code   | **Pending**  | Supports all 11 test sets         |
+| ✅ Paper             | **Completed**| -             |
+| 🚧 Model Weights     | **Pending**  | -           |
+| 🚧 Training Code     | **Pending**  | -   |
+| 🚧 Evaluation Code   | **Pending**  | -         |
 
 > 📌 The model weights, training, and evaluation code will be made public **after the paper is officially accepted**.
 ---
