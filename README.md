@@ -1,8 +1,7 @@
 <p align="center">
   <img src="assets/FaceCoT.png" alt="Cover Image" height="150" width="600">
 </p>
-
-<h1 align="center">🧠 FaceCoT: A Chain-of-Thought VQA Dataset for Face Anti-Spoofing</h1>
+<h2 align="center">🧠 FaceCoT: A Chain-of-Thought VQA Dataset for Face Anti-Spoofing</h2>
 
 FaceCoT is the **first Visual Question Answering (VQA) dataset** tailored for **Face Anti-Spoofing (FAS)**. It addresses the shortage of high-quality text-image multimodal data by aggregating **1.08M carefully annotated samples** from **WFAS** and **CelebA-Spoof**, covering **14 distinct attack types**.
 
@@ -22,7 +21,12 @@ FaceCoT adopts a **hierarchical Chain-of-Thought (CoT)** annotation format that 
 </p>
 
 - **Annotations**: Structured 6-stage CoT per sample
-  - `<Caption></Caption>, <Facial Description></Facial Description>, <Facial Attributes></Facial Attributes>, <Reasoning></Reasoning>, <Spoofing Description></Spoofing Description>, <Conclusion></Conclusion>`
+  - `<Caption></Caption>`
+  - `<Facial Description></Facial Description>`
+  - `<Facial Attributes></Facial Attributes> `
+  - `<Reasoning></Reasoning>`
+  - `<Spoofing Description></Spoofing Description>`
+  - `<Conclusion></Conclusion>`
 
 ---
 
