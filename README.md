@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/FaceCoT.png" alt="Cover Image" height="180" width="500">
+  <img src="assets/FaceCoT.png" alt="Cover Image" height="150" width="600">
 </p>
 
 <h1 align="center">🧠 FaceCoT: A Chain-of-Thought VQA Dataset for Face Anti-Spoofing</h1>
@@ -15,13 +15,14 @@ FaceCoT adopts a **hierarchical Chain-of-Thought (CoT)** annotation format that 
 - **Total Samples**: 1.08M
 - **Source Datasets**: WFAS, CelebA-Spoof
 - **Modalities**: Image + Text (VQA)
-- **Annotations**: Structured 6-stage CoT per sample
 - **Attack Types**: 14 total (see figure below)
-  - `<Caption></Caption>, <Facial Description></Facial Description>, <Facial Attributes></Facial Attributes>, <Reasoning></Reasoning>, <Spoofing Description></Spoofing Description>, <Conclusion></Conclusion>`
 
 <p align="center">
   <img src="./assets/data-type.png" alt="Attack Types" width="350">
 </p>
+
+- **Annotations**: Structured 6-stage CoT per sample
+  - `<Caption></Caption>, <Facial Description></Facial Description>, <Facial Attributes></Facial Attributes>, <Reasoning></Reasoning>, <Spoofing Description></Spoofing Description>, <Conclusion></Conclusion>`
 
 ---
 
