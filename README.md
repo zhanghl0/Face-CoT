@@ -54,7 +54,7 @@ Our proposed a CoT-Enhanced Progressive Learning (CEPL) strategy to better lever
 
 ---
 
-## 🔧 To-Do / Coming Soon
+## 🔧 TODO
 
 | Component            | Status       | Notes                             |
 |---------------------|--------------|-----------------------------------|
